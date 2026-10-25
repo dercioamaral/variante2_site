@@ -1,0 +1,48 @@
+body {
+    background-color: lightblue;
+    font-family: Arial;
+}
+h1, h2 {
+    color: darkred;
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 18px;
+}
+.destaque {
+    color: black;
+    font-weight: bold;
+}
+img {
+    width: 350px;
+    height: 220px;
+}
+.imagem-cursos {
+    border: 2px solid black;
+    border-radius: 15px;
+}
+a {
+    color: red;
+    font-size: 18px;
+}
+table {
+    width: 800px;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+th, td {
+    border: 1px solid indianred;
+    padding: 10px;
+}
+.dados {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+.sexo {
+    text-align: left;
+}
+.numero, .idade, .nota {
+    text-align: center;
+}
